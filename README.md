@@ -7,44 +7,91 @@
 
 ---
 
-## Descripción
+## 📌 Descripción
 
-Este repositorio contiene los laboratorios, tareas y ejercicios desarrollados durante el curso de Métodos Numéricos utilizando Python y Google Colab.
-
----
-
-## Contenido del Repositorio
-
-### 📘 Semana 2
-- `met_6_04_26`
-- Introducción a los métodos numéricos.
-
-### 📘 Semana 3
-- Interpolación de puntos de una mano.
-- Métodos implementados:
-  - Interpolación de Newton
-  - Interpolación de Lagrange
-  - Método Matricial (Vandermonde)
-  - Spline Cúbico
-  - Interpolación Paramétrica
-
-### 📘 Semana 5
-- Raíces de funciones.
-- Métodos de búsqueda de raíces.
-
-### 📘 Semana 7
-- Derivación Numérica.
-
-### 📘 Semana 8
-- Tarea Semana 08.
-
-### 📘 Semana 10
-- Integración Numérica.
-- Aplicación de métodos de integración para resolución de problemas de ingeniería.
+Repositorio que contiene laboratorios, tareas y ejercicios desarrollados durante el curso de Métodos Numéricos usando Python y Google Colab.
 
 ---
 
-## Herramientas Utilizadas
+## 📚 Contenido del Curso
+
+---
+
+## 📘 Semana 2 – Introducción a Métodos Numéricos
+
+- 📄 [Laboratorio Semana 2](met_6_04_26.ipynb)
+
+---
+
+## 📘 Semana 3 – Interpolación de la Mano
+
+- 📄 [Interpolación de la mano](Interpolando_puntos_de_la_mano.ipynb)
+
+Métodos:
+- Lagrange
+- Newton
+- Método Matricial
+- Spline cúbico
+- Interpolación paramétrica
+
+---
+
+## 📘 Semana 5 – Raíces de Funciones
+
+- 📄 [Raíces de funciones](Raices_de_Funciones.ipynb)
+
+Problema:
+\[
+f(x)=x\cos(x)-1
+\]
+
+Métodos:
+- Bisección
+- Newton-Raphson
+- Secante
+
+---
+
+## 📘 Semana 7 – Derivación Numérica
+
+- 📄 [Derivación numérica](Derivacion_Numerica.ipynb)
+
+Función:
+\[
+f(x)=e^x
+\]
+
+Incluye:
+- Derivadas numéricas
+- Tabla de errores para distintos h
+
+---
+
+## 📘 Semana 8 – Aplicaciones en Señales Biomédicas
+
+- 📄 [Tarea Semana 08](TAREA_SEMANA08.ipynb)
+
+Temas:
+- Spline cúbico natural
+- Derivación por diferencias centradas
+- Método de bisección
+- Análisis de señal biomédica
+
+---
+
+## 📘 Semana 10 – Integración Numérica
+
+- 📄 [Integración numérica](Integracion_Numerica_1_de_Junio.ipynb)
+
+Incluye:
+- Trapecio compuesto
+- Simpson 1/3
+- Simpson 3/8
+- Gauss-Legendre (con interpolación spline)
+
+---
+
+## 🛠️ Herramientas
 
 - Python
 - NumPy
@@ -56,17 +103,7 @@ Este repositorio contiene los laboratorios, tareas y ejercicios desarrollados du
 
 ---
 
-## Objetivos del Repositorio
+## 👩‍💻 Autor
 
-- Aplicar métodos numéricos para la solución de problemas de ingeniería.
-- Implementar algoritmos en Python.
-- Analizar resultados mediante tablas y gráficos.
-- Documentar el desarrollo de las prácticas del curso.
-
----
-
-## Autor
-
-**Cóndor Caruajulca Evelin Teodora**  
-Código: 23190118  
+Cóndor Caruajulca Evelin Teodora  
 Universidad Nacional Mayor de San Marcos
