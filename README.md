@@ -9,7 +9,7 @@
 
 ## 📌 Descripción
 
-Repositorio que contiene laboratorios, tareas y ejercicios desarrollados durante el curso de Métodos Numéricos usando Python y Google Colab.
+Repositorio con laboratorios, tareas y ejercicios del curso de Métodos Numéricos implementados en Python y Google Colab.
 
 ---
 
@@ -17,15 +17,16 @@ Repositorio que contiene laboratorios, tareas y ejercicios desarrollados durante
 
 ---
 
-## 📘 Semana 2 – Introducción a Métodos Numéricos
+## 📘 Semana 2
 
-- 📄 [Laboratorio Semana 2](met_6_04_26.ipynb)
+- 📄 [met_6_04_26](met_6_04_26.ipynb)
+- 📄 [met_20_04_26](met_20_04_26.ipynb)
 
 ---
 
-## 📘 Semana 3 – Interpolación de la Mano
+## 📘 Semana 3 – Interpolación de la mano
 
-- 📄 [Interpolación de la mano](Interpolando puntos de la mano.ipynb)
+- 📄 [Interpolación de puntos de la mano](Interpolando%20puntos%20de%20la%20mano.ipynb)
 
 Métodos:
 - Lagrange
@@ -36,14 +37,9 @@ Métodos:
 
 ---
 
-## 📘 Semana 5 – Raíces de Funciones
+## 📘 Semana 5 – Raíces de funciones
 
-- 📄 [Raíces de funciones](Raices_de_Funciones.ipynb)
-
-Problema:
-\[
-f(x)=x\cos(x)-1
-\]
+- 📄 [Raíces de funciones](raíces_de_funciones_semana_05.ipynb)
 
 Métodos:
 - Bisección
@@ -54,36 +50,26 @@ Métodos:
 
 ## 📘 Semana 7 – Derivación Numérica
 
-- 📄 [Derivación numérica](Derivacion_Numerica.ipynb)
-
-Función:
-\[
-f(x)=e^x
-\]
-
-Incluye:
-- Derivadas numéricas
-- Tabla de errores para distintos h
+- 📄 [Derivación numérica](Derivación_numérica.ipynb)
 
 ---
 
-## 📘 Semana 8 – Aplicaciones en Señales Biomédicas
+## 📘 Semana 8 – Tarea
 
 - 📄 [Tarea Semana 08](TAREA_SEMANA08.ipynb)
 
 Temas:
 - Spline cúbico natural
-- Derivación por diferencias centradas
-- Método de bisección
-- Análisis de señal biomédica
+- Derivadas numéricas
+- Bisección aplicada a señales
 
 ---
 
 ## 📘 Semana 10 – Integración Numérica
 
-- 📄 [Integración numérica](Integracion_Numerica_1_de_Junio.ipynb)
+- 📄 [Integración numérica](Integracion_numérica_1_de_Junio.ipynb)
 
-Incluye:
+Métodos:
 - Trapecio compuesto
 - Simpson 1/3
 - Simpson 3/8
