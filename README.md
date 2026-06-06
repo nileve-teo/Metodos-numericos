@@ -19,8 +19,7 @@ Repositorio con laboratorios, tareas y ejercicios del curso de Métodos Numéric
 
 ## 📘 Semana 2
 
-- 📄 [met_6_04_26](met_6_04_26.ipynb)
-- 📄 [met_20_04_26](met_20_04_26.ipynb)
+- 📄 [met_6_04_26](met_6_04_26.ipynb) 
 
 ---
 
