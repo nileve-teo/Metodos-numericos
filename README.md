@@ -25,7 +25,7 @@ Repositorio que contiene laboratorios, tareas y ejercicios desarrollados durante
 
 ## 📘 Semana 3 – Interpolación de la Mano
 
-- 📄 [Interpolación de la mano](Interpolando_puntos_de_la_mano.ipynb)
+- 📄 [Interpolación de la mano](Interpolando puntos de la mano.ipynb)
 
 Métodos:
 - Lagrange
