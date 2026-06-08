@@ -75,6 +75,17 @@ Métodos:
 - Gauss-Legendre (con interpolación spline)
 
 ---
+## 📘 Semana 11 – Integración Numérica II
+
+- 📄 [Integración numérica II](Integración_numérica2_9_de_Junio.ipynb)
+
+Métodos:
+- Trapecio compuesto
+- Simpson 1/3 compuesto
+- Simpson 3/8 compuesto
+- Cuadratura de Gauss–Legendre
+
+---
 
 ## 🛠️ Herramientas
 
