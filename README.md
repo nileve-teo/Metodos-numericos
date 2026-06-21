@@ -86,6 +86,14 @@ Métodos:
 - Cuadratura de Gauss–Legendre
 
 ---
+## 📘 Semana 12 – Ecuaciones Diferenciales Ordinarias (EDO)
+
+📄 [EDO_met_15_06_26.ipynb](EDO_met_15_06_26.ipynb)
+
+**Tema:**
+Resolución numérica de la ecuación de Van der Pol mediante RK4.
+
+---
 
 ## 🛠️ Herramientas
 
