@@ -1,7 +1,7 @@
 # Métodos Numéricos
 
 **Curso:** Métodos Numéricos  
-**Horario:** Lunes 14:00 - 20:00  
+**Horario:** Lunes 18:00 - 20:00  
 **Estudiante:** Cóndor Caruajulca Evelin Teodora  
 **Código:** 23190118  
 
